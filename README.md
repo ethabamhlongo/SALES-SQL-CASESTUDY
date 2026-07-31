@@ -12,7 +12,7 @@ Business Problem
 
 Businesses often collect large amounts of sales data but struggle to extract actionable insights from it.
 
-Management wanted to answer questions such as:
+# Management wanted to answer questions such as:
 
 How have sales changed over time?
 Which months generated the highest revenue?
@@ -24,7 +24,7 @@ Is the business becoming more efficient over time?
 
 By answering these questions, decision-makers can improve budgeting, inventory planning, pricing strategies, and overall financial performance.
 
-Objectives
+# Objectives
 
 The main objectives of the project were:
 
@@ -38,7 +38,7 @@ Identify each month’s contribution to annual revenue.
 Create a professional dashboard for business reporting.
 Dataset
 
-The dataset contains aggregated sales information with the following fields:
+# The dataset contains aggregated sales information with the following fields:
 
 Column	Description
 Year	Sales year
@@ -52,7 +52,8 @@ Average Sales	Average sales value
 Average Cost Of Sales	Average cost value
 Average Quantity Sold	Average quantity sold
 Number Of Sales Days	Number of sales days recorded
-Tools Used
+
+# Tools Used
 SQL – Data aggregation and business queries
 Microsoft Excel – Data cleaning, PivotTables, PivotCharts, and dashboard creation
 GitHub – Project documentation and portfolio presentation
@@ -60,7 +61,7 @@ SQL Analysis
 
 The analysis was performed using SQL to aggregate sales data by year and month.
 
-The SQL workflow included:
+# The SQL workflow included:
 
 Grouping data by year and month
 Calculating total sales
@@ -78,7 +79,7 @@ Data Cleaning
 
 The exported SQL data was cleaned in Excel before visualisation.
 
-Cleaning steps included:
+ # Cleaning steps included:
 
 Splitting CSV data into columns
 Formatting numerical columns
@@ -183,7 +184,7 @@ Some months contributed a significantly larger share of annual revenue, indicati
 
 Dashboard Design
 
-The dashboard was designed with the following principles:
+# The dashboard was designed with the following principles:
 
 Clear business-focused visuals
 Minimal clutter
@@ -193,7 +194,7 @@ Easy comparison between revenue, costs, and profit
 Executive-friendly presentation
 Skills Demonstrated
 
-This project demonstrates proficiency in:
+# This project demonstrates proficiency in:
 
 SQL
 GROUP BY
@@ -215,7 +216,7 @@ Margin analysis
 Trend analysis
 Performance reporting
 
-Conclusion
+# Conclusion
 
 This sales analytics case study demonstrates how raw sales data can be transformed into meaningful business intelligence using SQL and Excel.
 
@@ -223,8 +224,8 @@ The project highlights the importance of combining technical data skills with bu
 
 This project represents a complete end-to-end data analytics workflow and forms part of my growing portfolio as an aspiring Data Analyst / Data Scientist.
 
-Author
+# Author
 
-Ethaba Mhlongo
+# Ethaba Mhlongo
 
 Aspiring Data Analyst | SQL | Excel | Python | Power BI
